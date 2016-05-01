@@ -75,3 +75,17 @@ org.eclipse.jgit.errors.TransportException: https://github.com/tqiu1/test.git: e
 
 !ENTRY org.eclipse.egit.ui 4 0 2016-04-06 11:22:51.696
 !MESSAGE Can't connect to any repository: https://github.com/tqiu1/test.git (https://github.com/tqiu1/test.git: error occurred during unpacking on the remote end: index-pack abnormal exit)
+!SESSION 2016-04-12 15:23:38.001 -----------------------------------------------
+eclipse.buildId=4.3.0.M20130911-1000
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -data C:\Users\Tom\Documents\Java\COSC603\cosc603-project4 -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.egit.ui 2 0 2016-04-12 15:23:53.616
+!MESSAGE Warning: The environment variable HOME is not set. The following directory will be used to store the Git
+user global configuration and to define the default location to store repositories: 'C:\Users\Tom'. If this is
+not correct please set the HOME environment variable and restart Eclipse. Otherwise Git for Windows and
+EGit might behave differently since they see different configuration options.
+This warning can be switched off on the Team > Git > Confirmations and Warnings preference page.
